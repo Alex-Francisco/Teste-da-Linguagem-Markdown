@@ -70,3 +70,13 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 > Aqui temos um exemplo de citação
 
 <pre> Para citações fça assim: > sua citação </pre>
+
+
+***
+
+
+## Para gerar texto tachado
+
+~~ texto tachado ~~
+
+<pre> Faça assim: ~~ texto tachado ~~ <pre>
