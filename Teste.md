@@ -135,7 +135,7 @@ E para criar um subitem adicione 3 espaços na frente do número
 
 ## Para lista demarcada
 
-Use um asterisco (*) antes
+Use 1 asterisco (*) antes
 
 * Lista
 * Lista
@@ -150,3 +150,20 @@ Use um asterisco (*) antes
 </pre>
 
 
+
+***
+
+
+## Para lista de tarefas
+
+Use 1 traço e abra e feche colchetes ([]) antes
+
+-[] Tarefa 1
+-[] Tarefa 2
+-[] Tarefa 3
+
+<pre> Faça assim;
+-[] Tarefa 1
+-[] Tarefa 2
+-[] Tarefa 3
+</pre>
