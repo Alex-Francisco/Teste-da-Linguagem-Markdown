@@ -61,3 +61,6 @@ __Forte Ênfase__
 <pre> Faça assim: [site do curso em vídeo](https://www.cursoemvideo.com/)</pre>
 
 Se não for colocar um link em um texto, apenas colocar um link direto você pode colocá-lo diretamente dentro dos sinais de  < >
+<https://www.cursoemvideo.com>
+
+<pre> Faça assim: <https://www.cursoemvideo.com> </pre>
