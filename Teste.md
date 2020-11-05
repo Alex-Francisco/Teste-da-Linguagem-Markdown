@@ -130,3 +130,23 @@ E para criar um subitem adicione 3 espaços na frente do número
 </pre>
 
 
+***
+
+
+## Para lista demarcada
+
+Use um asterisco (*) antes
+
+* Lista
+* Lista
+   * Lista
+* Lista
+
+<pre> Faça assim;
+* Lista
+* Lista
+   * Lista
+* Lista
+</pre>
+
+
