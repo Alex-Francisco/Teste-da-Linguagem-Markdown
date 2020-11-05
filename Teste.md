@@ -50,3 +50,12 @@ ou
 __Forte Ênfase__ 
 <pre> __Ênfase__ (dois _)</pre>
 
+
+***************************************************************************************************
+
+
+## Para links -  []()
+
+[site do curso em video](https://www.cursoemvideo.com/)
+
+<pre> Faça assim: [site do curso em vídeo](https://www.cursoemvideo.com/)</pre>
