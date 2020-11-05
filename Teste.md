@@ -44,9 +44,9 @@ _Ênfase_
 
 ## Para forte ênfase -  Usamos o ** ou __
 
-**Ênfase** 
+**Forte Ênfase** 
 <pre> **Ênfase** </pre> 
 ou
-__Ênfase__ 
+__Forte Ênfase__ 
 <pre> __Ênfase__ (dois _)</pre>
 
