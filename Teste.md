@@ -26,3 +26,10 @@ Título de nível 2
 Título de nível 2
 ------------------
 </pre>
+
+Para ênfase -  Usamos o * ou _
+
+*Ênfase* <pre> *Ênfase* </pre> 
+ou
+_Ênfase_ <pre> _Ênfase_ </pre>
+
