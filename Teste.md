@@ -77,6 +77,6 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 
 ## Para gerar texto tachado
 
-~~ texto tachado ~~
+~~texto tachado~~
 
-<pre> Faça assim: ~~ texto tachado ~~ <pre>
+<pre> Faça assim: ~~texto tachado~~ <pre>
