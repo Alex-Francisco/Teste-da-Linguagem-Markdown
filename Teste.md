@@ -88,3 +88,5 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 ***
 
 <pre>Faça assim: *** </pre>
+ou
+<pre>Faça assim: --- </pre>
