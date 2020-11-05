@@ -42,3 +42,11 @@ ou
 _Ênfase_ 
 <pre> _Ênfase_ </pre>
 
+## Para forte ênfase -  Usamos o ** ou __
+
+**Ênfase** 
+<pre> **Ênfase** </pre> 
+ou
+__Ênfase__ 
+<pre> __Ênfase__ (dois _)</pre>
+
