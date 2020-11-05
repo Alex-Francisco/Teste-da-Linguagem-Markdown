@@ -8,3 +8,21 @@ Para criarmos títulos -  Usamos o # que dever ser colocado antes daquilo que se
 #### Título de nível 4; <pre> use 4 #### </pre>
 ##### Título de nível 5; <pre> use 5 ##### </pre>
 ###### Título de nível 6; <pre> use 6 ###### </pre>
+
+Dá pra fazer assim também;
+
+Título de nível 1
+==================
+
+<pre>
+Título de nível 1
+==================
+</pre>
+
+Título de nível 2
+------------------
+
+<pre> 
+Título de nível 2
+------------------
+</pre>
