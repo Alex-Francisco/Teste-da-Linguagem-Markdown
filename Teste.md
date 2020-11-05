@@ -54,7 +54,7 @@ __Forte Ênfase__
 ***
 
 
-## Para links usamos <pre> []() </pre>
+## Para links usamos ## <pre> []() </pre>
 [site do curso em video](https://www.cursoemvideo.com/)
 
 <pre> Faça assim: [site do curso em vídeo](https://www.cursoemvideo.com/)</pre>
