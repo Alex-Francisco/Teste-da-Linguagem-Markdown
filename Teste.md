@@ -168,6 +168,11 @@ Use 1 traço e abra e feche colchetes ([ ]) antes
 - [ ] Tarefa 3
 </pre>
 
+
+- [ x ] Tarefa 1
+- [ x ] Tarefa 2
+- [ x ] Tarefa 3
+
 <pre>
 Para "tickar" a caixinha faça assim;
 - [ x ] Tarefa 1
