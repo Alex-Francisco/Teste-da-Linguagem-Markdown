@@ -5,3 +5,6 @@ Para criarmos títulos -  Usamos o # que dever ser colocado antes daquilo que se
 # Título de nível 1; <pre> use 1 # </pre>
 ## Título de nível 2; <pre> use 2 ## </pre>
 ### Título de nível 3; <pre> use 3 ### </pre>
+#### Título de nível 4; <pre> use 4 #### </pre>
+##### Título de nível 5; <pre> use 5 ##### </pre>
+###### Título de nível 6; <pre> use 6 ###### </pre>
