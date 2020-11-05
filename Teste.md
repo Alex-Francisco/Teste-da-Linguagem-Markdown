@@ -10,7 +10,7 @@
 ### Título de nível 3; <pre> use 3 ### - exemplo: ### Título de nível 3</pre>
 #### Título de nível 4; <pre> use 4 #### - exemplo: #### Título de nível 4</pre>
 ##### Título de nível 5; <pre> use 5 ##### - exemplo: ##### Título de nível 5</pre>
-###### Título de nível 6; <pre> use 6 ###### - exemplo: ###### Título de nível 6</pre>
+
 
 Dá pra fazer assim também;
 
