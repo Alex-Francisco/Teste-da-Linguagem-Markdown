@@ -158,12 +158,12 @@ Use 1 asterisco (*) antes
 
 Use 1 traço e abra e feche colchetes ([]) antes
 
--[] Tarefa 1
--[] Tarefa 2
--[] Tarefa 3
+- [] Tarefa 1
+- [] Tarefa 2
+- [] Tarefa 3
 
 <pre> Faça assim;
--[] Tarefa 1
--[] Tarefa 2
--[] Tarefa 3
+- [] Tarefa 1
+- [] Tarefa 2
+- [] Tarefa 3
 </pre>
