@@ -54,7 +54,7 @@ __Forte Ênfase__
 ***************************************************************************************************
 
 
-## Para links -  []()
+## Para links usamos <pre> []() </pre>
 
 [site do curso em video](https://www.cursoemvideo.com/)
 
