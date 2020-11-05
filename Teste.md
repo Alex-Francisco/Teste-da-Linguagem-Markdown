@@ -80,3 +80,11 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 ~~texto tachado~~
 
 <pre> Faça assim: ~~texto tachado~~ <pre>
+
+***
+
+## Quer gerar uma linha horizontal para dividir partes do seu documento? Também é possível!
+
+***
+
+<pre>Faça assim: *** </pre>
