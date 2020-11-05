@@ -118,7 +118,7 @@ E para criar um subitem adicione 3 espaços na frente do número
 
 1. Item 
    1. Item 1.1
-2. Item 2
+2. Item
    2. Item 2.1
 
 <pre> Faça assim;
