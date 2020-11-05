@@ -64,3 +64,9 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 <https://www.cursoemvideo.com>
 
 <pre> Faça assim: < https://www.cursoemvideo.com > </pre>
+
+## Criando citações
+
+> Aqui temos um exemplo de citação
+
+<pre> Para citações fça assim: > sua citação </pre>
