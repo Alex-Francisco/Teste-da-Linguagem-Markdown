@@ -102,6 +102,8 @@ ou
 102945454. Item 3
 3. Item 4
 
+Use um número positivo inteiro qualquer e um ponto (.)
+
 <pre> Faça assim;
 
 1. Item 1
@@ -109,7 +111,7 @@ ou
 102945454. Item 3
 3. Item 4
 </pre>
-*Use um número positivo inteiro qualquer e um ponto (.)
+
 
 E para criar um subitem adicione 3 espaços na frente do número
 
@@ -119,7 +121,8 @@ E para criar um subitem adicione 3 espaços na frente do número
 2. Item 2
    3. Item 2.1
 
-<pre> Faça assim: 1. Item 1
+<pre> Faça assim;
+1. Item 1
    914778. Item 1.1
 2. Item 2
    3. Item 2.1
