@@ -90,3 +90,24 @@ Se não for colocar um link em um texto, apenas colocar um link direto você pod
 <pre>Faça assim: *** </pre>
 ou
 <pre>Faça assim: --- </pre>
+
+
+***
+
+
+## Para lista numerada
+
+1. Item 1
+914778. Item 2
+102945454. Item 3
+3. Item 4
+
+<pre> Faça assim: 1. Item 1
+914778. Item 2
+102945454. Item 3
+3. Item 4
+
+*Use um número positivo inteiro qualquer e um ponto (.)
+</pre>
+
+
