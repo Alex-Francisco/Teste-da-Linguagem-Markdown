@@ -240,9 +240,9 @@ Monitor | R$ 500,00 | 4    | R$ 2000,00
 
 Você pode especificar o tipo de alinhamento que deseja, basta utilizar : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
 
-Alinhado a esquerda: usar **:** no lado esquerdo (alinhamento padrão);
-Alinhado a direita: usar **:** no lado direito;
-Centralizado: usar **:** dos dois lados.
+Alinhado a esquerda = usar **:** no lado esquerdo (alinhamento padrão);
+Alinhado a direita = usar **:** no lado direito;
+Centralizado = usar **:** dos dois lados.
 
 Produto | Preço     | Qtde | Total
 :------- | :---------: | :----: | ----------:
