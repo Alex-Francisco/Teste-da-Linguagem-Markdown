@@ -104,7 +104,7 @@ ou
 
 Use um número positivo inteiro qualquer e um ponto (.)
 
-<pre> Faça assim;
+<pre>Faça assim;
 
 1. Item 1
 914778. Item 2
@@ -122,7 +122,8 @@ E para criar um subitem adicione 3 espaços na frente do número
 2. Item 2
 
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 1. Item 1
    1. subitem 
    2. subitem
@@ -142,7 +143,8 @@ Use 1 asterisco (*) antes
    * Lista
 * Lista
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 * Lista
 * Lista
    * Lista
@@ -162,7 +164,8 @@ Use 1 traço e abra e feche colchetes ([ ]) antes
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 - [ ] Tarefa 1
 - [ ] Tarefa 2
 - [ ] Tarefa 3
@@ -173,8 +176,8 @@ Use 1 traço e abra e feche colchetes ([ ]) antes
 - [x] Tarefa 2
 - [x] Tarefa 3
 
-<pre>
-Para "tickar" a caixinha faça assim;
+<pre>Para "tickar" a caixinha faça assim;
+
 - [x] Tarefa 1
 - [x] Tarefa 2
 - [x] Tarefa 3
@@ -199,7 +202,8 @@ Linha de código PHP
 ~~~
 
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 ~~~html
 Linha de código HTML
 ~~~
@@ -225,7 +229,8 @@ Mouse   | R$ 100,00 | 3    | R$ 300,00
 Teclado | R$ 200,00 | 5    | R$ 1000,00
 Monitor | R$ 500,00 | 4    | R$ 2000,00
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 Produto | Preço     | Qtde | Total
 ------- | --------- | ---- | ----------
 Mouse   | R$ 100,00 | 3    | R$ 300,00
