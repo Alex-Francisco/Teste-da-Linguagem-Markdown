@@ -197,3 +197,30 @@ Linha de código JavaScript
 ~~~php
 Linha de código PHP
 ~~~
+
+
+<pre> Faça assim;
+~~~html
+Linha de código HTML
+~~~
+
+```javascript
+Linha de código JavaScript
+```
+
+~~~php
+Linha de código PHP
+~~~
+</pre>
+
+
+***
+
+
+## Criando tabela
+
+Produto | Preço
+------- | -----
+Mouse | R$ 99,00
+Teclado | R$ 150,00
+Monitor | R$ 500,00
