@@ -190,7 +190,7 @@ Para "tickar" a caixinha faça assim;
 Linha de código HTML
 
 
-~~~Javascript
+```Javascript
 Linha de código JavaScript
 
 
