@@ -261,6 +261,8 @@ Monitor | R$ 500,00 | 4    | R$ 2000,00
 
 ## Criando emoticons
 
+Markdown também suporta emoji, veja abaixo alguns exemplos.
+
 :bowtie:
 :smile:
 :laughing:
@@ -276,3 +278,5 @@ Monitor | R$ 500,00 | 4    | R$ 2000,00
 :satisfied:
 :grin:
 :wink:
+
+Para acessar mais, [clique aqui](https://www.webfx.com/tools/emoji-cheat-sheet/).
