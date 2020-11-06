@@ -1,7 +1,3 @@
-# Teste da Linguagem Markdown
- aprendendo mais sobre markdown
-
-
 # Testando a linguagem Markdown
 
 
@@ -108,7 +104,7 @@ ou
 
 Use um número positivo inteiro qualquer e um ponto (.)
 
-<pre> Faça assim;
+<pre>Faça assim;
 
 1. Item 1
 914778. Item 2
@@ -126,7 +122,8 @@ E para criar um subitem adicione 3 espaços na frente do número
 2. Item 2
 
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 1. Item 1
    1. subitem 
    2. subitem
@@ -146,7 +143,8 @@ Use 1 asterisco (*) antes
    * Lista
 * Lista
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 * Lista
 * Lista
    * Lista
@@ -166,7 +164,8 @@ Use 1 traço e abra e feche colchetes ([ ]) antes
 - [ ] Tarefa 2
 - [ ] Tarefa 3
 
-<pre> Faça assim;
+<pre>Faça assim;
+
 - [ ] Tarefa 1
 - [ ] Tarefa 2
 - [ ] Tarefa 3
@@ -177,9 +176,107 @@ Use 1 traço e abra e feche colchetes ([ ]) antes
 - [x] Tarefa 2
 - [x] Tarefa 3
 
-<pre>
-Para "tickar" a caixinha faça assim;
+<pre>Para "tickar" a caixinha faça assim;
+
 - [x] Tarefa 1
 - [x] Tarefa 2
 - [x] Tarefa 3
 </pre>
+
+
+***
+
+
+## Para adicionar trechos de códigos
+
+~~~html
+Linha de código HTML
+~~~
+
+```javascript
+Linha de código JavaScript
+```
+
+~~~php
+Linha de código PHP
+~~~
+
+
+<pre>Faça assim;
+
+~~~html
+Linha de código HTML
+~~~
+
+```javascript
+Linha de código JavaScript
+```
+
+~~~php
+Linha de código PHP
+~~~
+</pre>
+
+
+***
+
+
+## Criando tabela
+
+Produto | Preço     | Qtde | Total
+------- | --------- | ---- | ----------
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+
+<pre>Faça assim;
+
+Produto | Preço     | Qtde | Total
+------- | --------- | ---- | ----------
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+</pre>
+
+Você pode especificar o tipo de alinhamento que deseja, basta utilizar : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
+
+Alinhado a esquerda = usar **:** no lado esquerdo (alinhamento padrão);
+Alinhado a direita = usar **:** no lado direito;
+Centralizado = usar **:** dos dois lados.
+
+Produto | Preço     | Qtde | Total
+:------- | :---------: | :----: | ----------:
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+
+<pre>Faça assim;
+
+Produto | Preço     | Qtde | Total
+:------- | :---------: | :----: | ----------:
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+</pre>
+
+## Criando emoticons
+
+Markdown também suporta emoji, veja abaixo alguns exemplos.
+
+:bowtie:
+:smile:
+:laughing:
+:blush:
+:smiley:
+:relaxed:
+:smirk:
+:heart_eyes:
+:kissing_heart:
+:kissing_closed_eyes:
+:flushed:
+:relieved:
+:satisfied:
+:grin:
+:wink:
+
+Para acessar mais, [clique aqui](https://www.webfx.com/tools/emoji-cheat-sheet/).
