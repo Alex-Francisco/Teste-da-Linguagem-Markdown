@@ -238,8 +238,23 @@ Teclado | R$ 200,00 | 5    | R$ 1000,00
 Monitor | R$ 500,00 | 4    | R$ 2000,00
 </pre>
 
-Para especificar o tipo de alinhamento que deseja ter nas tabelas, utilize : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
+Você pode especificar o tipo de alinhamento que deseja, basta utilizar : ao lado do campo horizontal de hífens ---, na segunda linha da sua tabela. Veja abaixo:
 
 Alinhado a esquerda: usar : no lado esquerdo (alinhamento padrão);
 Alinhado a direita: usar : no lado direito;
 Centralizado: usar : dos dois lados.
+
+Produto | Preço     | Qtde | Total
+:------- | :---------: | :----: | ----------:
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+
+<pre>Faça assim;
+
+Produto | Preço     | Qtde | Total
+:------- | :---------: | :----: | ----------:
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
+</pre>
