@@ -179,3 +179,21 @@ Para "tickar" a caixinha faça assim;
 - [x] Tarefa 2
 - [x] Tarefa 3
 </pre>
+
+
+***
+
+
+## Para adicionar trechos de códigos
+
+~~~HTML
+Linha de código HTML
+~~~
+
+~~~Javascript
+Linha de código JavaScript
+~~~
+
+~~~PHP
+Linha de código PHP
+~~~
