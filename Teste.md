@@ -263,7 +263,6 @@ Monitor | R$ 500,00 | 4    | R$ 2000,00
 
 :bowtie:
 :smile:
-:simple_smile:
 :laughing:
 :blush:
 :smiley:
