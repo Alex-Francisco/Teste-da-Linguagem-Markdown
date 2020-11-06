@@ -219,8 +219,8 @@ Linha de código PHP
 
 ## Criando tabela
 
-Produto | Preço     | Qtde
-------- | --------- | ----
-Mouse   | R$ 99,00  | 3
-Teclado | R$ 150,00 | 5
-Monitor | R$ 500,00 | 2
+Produto | Preço     | Qtde | Total
+------- | --------- | ----   ----------
+Mouse   | R$ 100,00 | 3    | R$ 300,00
+Teclado | R$ 200,00 | 5    | R$ 1000,00
+Monitor | R$ 500,00 | 4    | R$ 2000,00
