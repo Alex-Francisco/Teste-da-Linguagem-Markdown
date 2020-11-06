@@ -258,3 +258,22 @@ Mouse   | R$ 100,00 | 3    | R$ 300,00
 Teclado | R$ 200,00 | 5    | R$ 1000,00
 Monitor | R$ 500,00 | 4    | R$ 2000,00
 </pre>
+
+## Criando emoticons
+
+:bowtie:
+:smile:
+:simple_smile:
+:laughing:
+:blush:
+:smiley:
+:relaxed:
+:smirk:
+:heart_eyes:
+:kissing_heart:
+:kissing_closed_eyes:
+:flushed:
+:relieved:
+:satisfied:
+:grin:
+:wink:
