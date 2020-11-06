@@ -187,12 +187,12 @@ Para "tickar" a caixinha faça assim;
 ## Para adicionar trechos de códigos
 
 ~~~HTML
-Linha de código HTML
+Linha de código HTML~~~
 
 
 ```Javascript
-Linha de código JavaScript
+Linha de código JavaScript```
 
 
 ~~~PHP
-Linha de código PHP
+Linha de código PHP~~~
