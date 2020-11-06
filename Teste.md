@@ -188,12 +188,11 @@ Para "tickar" a caixinha faça assim;
 
 ~~~HTML
 Linha de código HTML
-~~~
+
 
 ~~~Javascript
 Linha de código JavaScript
-~~~
+
 
 ~~~PHP
 Linha de código PHP
-~~~
